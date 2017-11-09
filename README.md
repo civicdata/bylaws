@@ -9,8 +9,8 @@ This is a living document and pull requests are welcome. If you are unfamiliar w
 Use the imperative mood ("Move cursor to..." not "Moves cursor to...")  
 Reference issues and pull requests liberally  
 Consider starting the commit message with an applicable emoji:  
-:art: when improving the format/structure of the code
-:sparkling_heart: when glittering up the project's style
+:art: when improving the format/structure of the code  
+:sparkling_heart: when glittering up the project's style  
 :racehorse: when improving performance  
 :non-potable_water: when plugging memory leaks  
 :memo: when writing docs  
