@@ -1,25 +1,63 @@
-# EXAMPLE  BYLAWS
+#   CIVIC DATA ALLIANCE  BYLAWS
+### All the Data for We the People
 
 ##  ARTICLE 1. PRINCIPLE NAME
 The name of this nonprofit Corporation shall be Civic Data Alliance and by such name shall transact business and do all things incidental or necessary to accomplish its corporate business and purpose.
 
 ##  ARTICLE 2. OFFICE AND OPERATION
 
- #### 1. **Principal Office.** The principal office of the corporation, hereafter referred to as the “Corporation” shall be *ADDRESS* or such other place as the Board of Directors shall determine from time to time.
- #### 2. **Area of Operation.** The principal geographical area to be served by the Corporation shall be the metropolitan Louisville, KY area. This area can also be expanded to include any additional geographical areas as deemed by the Board of Directors from time to time.
- #### 3. **Corporate Records.** The Articles of Incorporation, Bylaws and Minutes of the meetings of the Board of Directors together with other records of the Corporation shall be maintained at the office of the Corporation or such other place as the Board of Directors may deem appropriate.
-	
-##  ARTICLE 3. CAPITAL STOCK
+ #### 1. **Principal Office**  
+ The principal office of the corporation, hereafter referred to as the “Corporation” shall be *ADDRESS* or such other place as the Board of Directors shall determine from time to time.
+ #### 2. **Area of Operation**  
+ The principal geographical area to be served by the Corporation shall be the metropolitan Louisville, KY area. This area can also be expanded to include any additional geographical areas as deemed by the Board of Directors from time to time.
+ #### 3. **Corporate Records**  
+ The Articles of Incorporation, Bylaws and Minutes of the meetings of the Board of Directors together with other records of the Corporation shall be maintained at the office of the Corporation or such other place as the Board of Directors may deem appropriate.
 
-#### The Corporation shall be a nonprofit Corporation and shall have no capital stock.
+##  ARTICLE 3. CAPITAL STOCK
+The Corporation shall be a nonprofit Corporation and shall have no capital stock.
 
 ##  ARTICLE 4. STATEMENT OF MISSION
+The Corporation is formed for the purposes set forth in its Articles of Incorporation, including more specifically but not limited to functioning as an advocate for community education in civic tech, civic hacking and open data use and best practices, in addition to functioning as the entity who develops and implements these skills and tools in order to help foster a culture of lifelong Civic STEM learning and Open Data advocacy in our community.
 
-#### The Corporation is formed for the purposes set forth in its Articles of Incorporation, including more specifically but not limited to… MISSION
-
-#### The Board of Directors may adopt or amend a Statement of Mission from time to time which shall be appended to and become part of the Bylaws. Any such amendment may be made by a two-thirds majority of the Board of Directors present at any regular or special meeting.
+The Board of Directors may adopt or amend a Statement of Mission from time to time which shall be appended to and become part of the Bylaws. Any such amendment may be made by a two-thirds majority of the Board of Directors present at any regular or special meeting.
 
 ##  ARTICLE 5. BOARD OF DIRECTORS
+
+    5.1 General Powers
+    All corporate power shall be exercised by or under the authority of, and the business and affairs of the Corporation shall be managed under the Board of Directors, hereafter also referred to as the “Board” or “Director”, is subject to any limitations set forth in the Articles. Unless otherwise amended, all Directors are of the same class and have the same powers, responsibilities, and voting privileges.
+
+    5.2 Number, Terms and Election.
+        a. Number. The number of Directors for any ensuing year may be fixed by the Board prior to the first regularly scheduled meeting of the Board and said members shall not be less than three (3) nor more than nine (9), excluding ex officio members or others so designated by the Board, i.e. the Past Chairmen of the Board.
+        a. Terms. Each Director may be elected to two (2) consecutive, three (3) year terms but shall not be eligible for re-election to another three (3) year term until one (1) year shall have passed from the end of the second term.
+        c. Term Limit Override. In an effort to provide proper leadership for the health of the Corporation, the Board of Directors reserves the right to override the two term limit and extend a Director’s term by one or two years if that is deemed necessary to provide a staggered departure of Board members and/or prevent undue hardship on the management team. The exercising of this right does not apply to extending the terms of the Officers of the Board (Section 6.5), however that Officer can continue to serve in the capacity as a Director.
+        d. Election. The Chairman of the Board shall appoint with concurrence from the Board, no more than three (3) persons from that Board to a nominating committee at least 60 days prior to the last regularly scheduled meeting of the current fiscal year. The nominating committee shall then prepare a slate of nominees for the Director positions to be filled and voted on 30 days prior to the last regularly scheduled meeting of the fiscal year. The new Directors shall assume their duties at the January Board of Directors meeting each year.
+
+    5.3 Participation, Resignation and Removal. Directors are expected to attend all board meetings during each fiscal year of the Corporation. Any member of the Board may resign from the Board at any time by giving written notice to the Board. A resignation shall be effective when the notice is delivered unless the notice specifies a later effective date. A Director may be removed for cause (including but not limited to breach of fiduciary duty or breach of the duty of care) upon the affirmative vote of the majority of the other Directors (or, if the Board comprises three directors in all, upon the unanimous vote of the other two Directors).
+
+    5.4 Annual and Regular Meetings. The annual meeting of the Board of Directors must be held in the month of March, beginning in 2018 for the fiscal year that starts January 1, 2019, at the time and place specified in a resolution of the Board of Directors.  The Board of Directors must convene additional regular meetings on a semi-annual or more frequent basis so that not more than six months elapses between regular meetings (including the annual meeting). The Secretary must give written notice of all regular meetings to each Director at least ten (10) days prior to the meeting date, by electronic communications platform, personal delivery, fax, e-mail, or first class mail at the Directors‘ respective addresses as shown by the records of the Corporation.
+
+    5.5 Special Meetings. Special meetings of the Board may be called by, or at the request of, the Chairman of the Board or any two Directors of the Corporation. All special meetings of the Board shall be held at the principal office of the Corporation or such other place as may be specified in the notice of the meeting. Notice of special or regular Director meetings shall be given by written or verbal notice to each Director at least one (l) week before the time set for any such meeting.
+
+    5.6 Participation in Meetings. Unless otherwise provided by Kentucky law, the Board may permit any or all Directors to participate in an annual, regular or special meeting by, or conduct the meeting through the use of, any means of communication by which all Directors participating may simultaneously hear each other during the meeting including, but not limited to, electronic communications platform, conference telephone, video conferencing or similar communications equipment. A Director participating in a meeting by this means shall be deemed to be present in person at the meeting.
+
+    5.7 Voting Rights When Not Present. In the event that a Director cannot be present at an official meeting and cannot participate as described in Section 5.6, a Director is permitted to vote on items found on the meeting agenda as prescribed in the following subsections:
+        a. When the Corporation’s Secretary or other staff employee sends a notice of a Board meeting, an agenda, and/or related documents to each Director by Salck, e-mail or ordinary mail, the sender may include the form or content of a Ballot that may be completed and returned by each Director under this Section. The form of Ballot must list each Voting Item that is known in advance of the meeting and scheduled to be presented for a vote at the meeting, and must allow each Director to vote in favor of, to vote against, or to abstain with respect to each Voting Item. When notice of a Board meeting is sent by electronic communications platform or e-mail to a Director, a separate Ballot document need not be attached to the electronic communications platform or e-mail message, so long as the text of the electronic communications platform or e-mail message states each Voting Item and reminds the Director of his or her right to vote in favor of, to vote against, or to abstain with respect to each Voting Item, so that the Director can include his or her vote(s) or abstentions in an electronic communications platformed or e-mailed reply under subsection (c).
+        b. Regardless of the method (electronic communications platformed, ordinary mail or e-mail) by which a Director receives notice of a Board meeting, agenda and a form of Ballot, the Director:
+          i) May sign and return to the Secretary, by ordinary mail, a paper Ballot on which the Director votes in favor of, votes against, or abstains with respect to each Voting Item described or listed on the  Ballot; or
+         ii) May send to the Secretary a reply electronic communications platform or e-mail message (“electronic communications platform or e-mail Ballot”) that describes or lists each Voting Item and states that the Director votes in favor of, votes against, or abstains with respect to each such Voting Item.
+        c. A signed Ballot returned by electronic communications platform, mail or an e-mail Ballot that is received by the Secretary before the starting time for the Board meeting will be conclusively treated as equivalent to a vote in person by the responding Director (in favor, against, or abstaining, as the case may be) at the Board meeting with respect to each Voting Item listed or described in the returned Ballot. A signed Ballot, electronic communications platformed Ballot or an e-mail Ballot that is received after the starting time for the Board meeting is null and void. The failure by a Director to indicate a vote in favor or against a Voting Item on his or her Ballot will be treated as an abstention, but a timely-returned Ballot (even with abstentions on all Voting Items) will be treated as a waiver of notice, and the Director will be counted as present at the meeting for purposes of determining a quorum.
+        d. Voting by electronic communications platform Ballot or e-mail Ballot is not permitted for approval or disapproval by the Board of Directors of any of the following actions:
+          i) Voluntary dissolution, liquidation, and winding up of the Corporation;
+          ii) Amendment or restatement of the Articles of Incorporation; or
+          iii) Merger of the Corporation with another nonprofit organization.
+
+The Corporation is formed for the purposes set forth in its Articles of Incorporation, including more specifically but not limited to functioning as an advocate for community education in civic tech, civic hacking and open data use and best practices, in addition to functioning as the entity who develops and implements these skills and tools in order to help foster a culture of lifelong Civic STEM learning and Open Data advocacy in our community.
+
+    5.9 Quorum. Fifty percent (50%) of the entire membership of the Board of Directors then in office is a quorum. However, when filling vacancies occurring in the Board of Directors, a majority of the existing Directors constitutes a quorum. Attendance at meetings must be taken by the Secretary or by means of a roster signed or initialed by each Board member in attendance. A Director who:
+        a. Participates electronically in a Board meeting (Section 5.6)
+        b. Returns by electronic communications platform, e-mail or ordinary mail (Section 5.7) a ballot with respect to one or more Voting Items, which ballot is received by the Secretary on or before the date and time for the Board meeting, is counted toward satisfying the quorum requirement at the Board meeting for the Voting Item(s) involved or at which the Director electronically participates.
+
+    5.10 Majority Vote. The act of a majority of the Directors present in person at a meeting at which a quorum is present is the valid act of the Board of Directors. Affirmative and negative votes cast by Directors and timely returned by electronic communications platform, e-mail or ordinary mail under Section 5.7 must be counted in determining whether a particular Voting Item has been approved by a majority vote.
 
 #### 1. **General Powers.** All corporate power shall be exercised by or under the authority of, and the business and affairs of the Corporation shall be managed under the Board of Directors, hereafter also referred to as the “Board” or “Director”, is subject to any limitations set forth in the Articles. Unless otherwise amended, all Directors are of the same class and have the same powers, responsibilities, and voting privileges.
 #### 2. **Number, Terms and Election.**
@@ -49,33 +87,59 @@ The name of this nonprofit Corporation shall be Civic Data Alliance and by such 
 #### 11. **Action by Written Consent.** Any action required or permitted to be taken by the Board at a meeting may be taken without a meeting if consent is in writing, setting forth the action so taken, shall be signed by all of the Directors.
 
 ##  ARTICLE 6. OFFICERS AND EXECUTIVE COMMITTEE
+        6.1 Required Officers. The Corporation shall have the Officers described in these Bylaws or appointed by the Board in accordance with these Bylaws. A duly appointed Officer may appoint one or more Officers or assistant Officers if authorized by the Board. The same individual may simultaneously hold more than one office in the Corporation.
+          Section 6.l0(d) delegates to the Secretary, if such office be created and filled, the required responsibility of preparing minutes of the Directors’ meetings and for authenticating records of the Corporation. If such office shall not be created and filled, then the Board shall delegate to one of the Officers of the Corporation such responsibility.
 
-#### 1. **Required Officers.** The Corporation shall have the Officers described in these Bylaws or appointed by the Board in accordance with these Bylaws. A duly appointed Officer may appoint one or more Officers or assistant Officers if authorized by the Board. The same individual may simultaneously hold more than one office in the Corporation. Section 7.4(1) delegates to the Secretary, if such office be created and filled, the required responsibility of preparing minutes of the Directors’ meetings and for authenticating records of the Corporation. If such office shall not be created and filled, then the Board shall delegate to one of the Officers of the Corporation such responsibility.		  
-#### 2. **Officer Terms.** Officers shall be elected annually at the Annual meeting of the Board of Directors. The Officers elected shall hold their respective offices for a single term of two (2) years and until their successors shall have been duly elected and qualified. There is no reelection to office permitted (i.e. two consecutive terms) with the exception of the offices of Treasurer and Secretary so long as their term as Directors has not expired or been extended per Section 5.2(c).
-#### 3. **Election of Officers.** The Officers of the Corporation shall be elected by the Board at the first, and thereafter at each annual meeting of the Board when terms have expired. If the appointment of Officers shall not be made at any such meeting, such appointment shall be made as soon thereafter as is practicable. Vacancies may be filled or new offices created and filled at any meeting of the Board. Each Officer shall hold office until such Officer’s successor shall be duly elected or until such Officer’s death or until such Officer shall resign or shall have been removed in the manner hereinafter provided.
-#### 4. **Removal and Resignations of Officers.** The Board may remove any Officer at any time with or without cause. An Officer of the Corporation may resign at any time by delivering written notice to the Board. A resignation shall be effective when the notice is delivered unless the notice specifies a later effective date.
-#### 5. **Contract Rights of Officers.** Appointment of an Officer or Agent shall not of itself create contract rights. An Officer’s removal shall not affect the Officer’s contract rights, if any, with the Corporation. An Officer’s resignation shall not affect the Corporation’s contract rights, if any, with the Officer.
-#### 6. **Vacancies.** A vacancy in any office because of death, resignation, removal, disqualification or otherwise may be filled by the Board for the unexpired portion of the term.
-#### 7. **Corporate Officers of Record.**
-> 1. **President of the Board.** The President of the Board, as filled at the discretion of the Board, will be the Chief Executive Officer of the Corporation and, if such, shall, in general, supervise and control the affairs and business of the Corporation,  subject to control by the Board. The President of the Board shall preside at all meetings of the Board. The President of the Board may sign any deeds, mortgages, bonds, contracts or other instruments which the Board has authorized to be executed, except in cases where the signing and execution thereof shall be expressly delegated by the Board or by these Bylaws to some other Officer or agent of the Corporation, or shall be required by law to be otherwise signed or executed. The Board may confer like powers on any other person (i.e. Managing Director) or persons within the Corporation at their discretion. The President of the Board is limited to one single two-year term but may attend a Board of Directors meeting if their Director’s term has expired, with concurrence from the Board, in an ex-officio non-voting role to assist in any transitional issues in the year following their holding that office.
-> 2. **Vice President.** In the absence of the President, or in the event of the President’s death, inability or refusal to act, the Vice President shall perform the duties of the President and when so acting shall have all the powers of, and be subject to all the restrictions upon, the President. A Vice President shall perform such other duties as from time to time may be assigned to such person by the President of the Board or the Board. There is no automatic succession from Vice President to President of the Board, however the Vice President can be elected to the Chair position by the Board during nomination process.
-> 3. **Treasurer.** The Treasurer, as an Officer of the Corporation shall:
-	1. Have charge and custody of, and be responsible for, all funds and securities of the Corporation,
-	2.  Receive and give receipts for monies due and payable to the Corporation from any source whatsoever, and deposit all such monies in the name of the Corporation in such banks, trust companies and other depositories as shall be selected in accordance with the provisions of Sections 9.4 and 9.5 of these Bylaws,
-	3. In general, perform all the duties incident to the office of Treasurer and such other duties as from time to time may be assigned to the Treasurer by the President of the Board or the Board,
-	4. If required by the Board, the Treasurer shall give a bond for the faithful discharge of such Officer’s duties (which may, but need not be, paid by the Corporation) in such sum and with such surety or sureties as the Board shall determine,
-	5. The Treasurer is permitted to seek reelection to this position after their first so long as their second three-year term as Director has not expired or extended per Section 5.2(c).
-> 4. **Secretary.** The Secretary, as an Officer of the Corporation, if that office be created and filled, shall:
-	1. Keep the minutes of the meetings of the Board in one or more books provided for that purpose,
-	2. See that all notices are duly given in accordance with the provisions of these Bylaws or as required by law,
-	3. Be custodian of the corporate records and of the seal, if any, of the Corporation,
-	4. Be responsible for authenticating records of the Corporation,
-	5. Keep a register of the mailing address of each Director and
-	6. In general, perform all duties incident to the office of Secretary and such other duties as from time to time may be assigned to the Secretary by the President of the Board or the Board.
-	7. The Secretary is permitted to seek reelection to this position after their first two-year term so long as their second three-year term as Director has not expired or extended per Section 5.2(c).
-	8. If this position is not filled by the Board, which is permissible by these Bylaws, the position and duties of Secretary can be assigned to another Officer as denoted in Section 6.1 of these Bylaws.
-				
+        6.2 Executive Committee Defined. The Board of Directors shall create an Executive Committee consisting of at least two (2) Officers of the Board and other such members of the Board of Directors, or other individuals, as the Board may appoint. The Executive Committee shall have such authority and power as is authorized by the full Board of Directors.
+
+        6.3 Authority of Executive Committee. When the Board is not in session, the Executive Committee shall have and may exercise all of the authority of the Board, unless otherwise specified in the resolution appointing the Executive Committee. Neither the Executive Committee, nor any other board or committee created by the Board of Directors, shall have the authority to:
+          a. Amend, alter or repeal these Bylaws,
+          b. Appoint or remove any member of the Executive Committee, any Officer or Director of the Corporation,
+          c. Amend or restate the Articles,
+          d. Adopt a plan of merger or consolidation with another Corporation,
+          e. Authorize the sale, lease, exchange or mortgage of all, or substantially all,  of the property and assets of the Corporation,
+          f. Authorize the voluntary dissolution of the Corporation or adopt a plan for the distribution of the assets of the Corporation or
+          g. Amend, alter or repeal any resolution of the Board.
+
+        6.4 Quorum and Voting. A majority of the members of the Executive Committee shall constitute a quorum of the Executive Committee. If a quorum is present when a vote is taken, the affirmative vote of a majority of the members present shall be the act of the Executive Committee.
+
+        6.5 Officer Terms. Officers shall be elected annually at the Annual meeting of the Board of Directors. The Officers elected shall hold their respective offices for a single term of two (2) years and until their successors shall have been duly elected and qualified. There is no reelection to office permitted (i.e. two consecutive terms) with the exception of the offices of Treasurer and Secretary so long as their term as Directors has not expired or been extended per Section 5.2(c).
+
+        6.6 Election of Officers. The Officers of the Corporation shall be elected by the Board at the first, and thereafter at each annual meeting of the Board when terms have expired. If the appointment of Officers shall not be made at any such meeting, such appointment shall be made as soon thereafter as is practicable. Vacancies may be filled or new offices created and filled at any meeting of the Board. Each Officer shall hold office until such Officer’s successor shall be duly elected or until such Officer’s death or until such Officer shall resign or shall have been removed in the manner hereinafter provided.
+
+        6.7 Removal and Resignations of Officers. The Board may remove any Officer at any time with or without cause. An Officer of the Corporation may resign at any time by delivering written notice to the Board. A resignation shall be effective when the notice is delivered unless the notice specifies a later effective date.
+
+        6.8 Contract Rights of Officers. Appointment of an Officer or Agent shall not of itself create contract rights. An Officer’s removal shall not affect the Officer’s contract rights, if any, with the Corporation. An Officer’s resignation shall not affect the Corporation’s contract rights, if any, with the Officer.
+
+        6.9 Vacancies. A vacancy in any office because of death, resignation, removal, disqualification or otherwise may be filled by the Board for the unexpired portion of the term.
+
+        6.10 Corporate Officers of Record.
+          a. Chairman of the Board. The Chairman of the Board, as filled at the discretion of the Board, will be the Chief Executive Officer of the Corporation and, if such, shall, in general, supervise and control the affairs and business of the Corporation,  subject to control by the Board. The Chairman of the Board shall preside at all meetings of the Board. The Chairman of the Board may sign any deeds, mortgages, bonds, contracts or other instruments which the Board has authorized to be executed, except in cases where the signing and execution thereof shall be expressly delegated by the Board or by these Bylaws to some other Officer or agent of the Corporation, or shall be required by law to be otherwise signed or executed. The Board may confer like powers on any other person (i.e. Managing Director) or persons within the Corporation at their discretion. The Chairman of the Board is limited to one single two-year term but may attend a Board of Directors meeting if their Director’s term has expired, with concurrence from the Board, in an ex-officio non-voting role to assist in any transitional issues in the year following their holding that office.
+
+          b. Vice Chairman. In the absence of the Chairman, or in the event of the Chairman’s death, inability or refusal to act, the Vice Chairman shall perform the duties of the Chairman and when so acting shall have all the powers of, and be subject to all the restrictions upon, the Chairman. A Vice Chairman shall perform such other duties as from time to time may be assigned to such person by the Chairman of the Board or the Board. There is no automatic succession from Vice Chairman to Chairman of the Board, however the Vice Chairman can be elected to the Chair position by the Board during nomination process.
+
+          c. Treasurer. The Treasurer, as an Officer of the Corporation shall:
+             i. Have charge and custody of, and be responsible for, all funds and securities of the Corporation,
+             ii. Receive and give receipts for monies due and payable to the Corporation from any source whatsoever, and deposit all such monies in the name of the Corporation in such banks, trust companies and other depositories as shall be selected in accordance with the provisions of Sections 9.4 and 9.5 of these Bylaws,
+             iii. In general, perform all the duties incident to the office of Treasurer and such other duties as from time to time may be assigned to the Treasurer by the Chairman of the Board or the Board,
+             iv. If required by the Board, the Treasurer shall give a bond for the faithful discharge of such Officer’s duties (which may, but need not be, paid by the Corporation) in such sum and with such surety or sureties as the Board shall determine,
+             v. The Treasurer is permitted to seek reelection to this position after their first so long as their second three-year term as Director has not expired or extended per Section 5.2(c).
+
+          d. Secretary. The Secretary, as an Officer of the Corporation, if that office be created and filled, shall:
+             i. Keep the minutes of the meetings of the Board in one or more books provided for that purpose,
+             ii. See that all notices are duly given in accordance with the provisions of these Bylaws or as required by law,
+             iii. Be custodian of the corporate records and of the seal, if any, of the Corporation,
+             iv. Be responsible for authenticating records of the Corporation,
+             v. Keep a register of the mailing address of each Director and
+             vi. In general, perform all duties incident to the office of Secretary and such other duties as from time to time may be assigned to the Secretary by the Chairman of the Board or the Board.
+             vii. The Secretary is permitted to seek reelection to this position after their first two-year term so long as their second three-year term as Director has not expired or extended per Section 5.2(c).
+             viii. If this position is not filled by the Board, which is permissible by these Bylaws, the position and duties of Secretary can be assigned to another Officer as denoted in Section 6.1 of these Bylaws.  
+
 ## ARTICLE 7. OTHER COMMITTEES
+#### Other Committees.  
+The Board of Directors by resolution adopted by a majority of all Directors in office when the action is taken may create and appoint from among the Corporation’s membership such other committees, consisting of two or more persons, as from time to time it may consider necessary or appropriate to conduct the affairs of the Corporation.
+
+Each such committee shall have such power and authority as the Board may, from time to time, establish for it. The tenure and qualifications of the members of each committee, the-time, place and Corporation of such committee’s meetings, the notice required to call any such meeting, the number of members of each such committee that shall constitute a quorum, the affirmative vote of the committee members required effectively to take action at any meeting at which a quorum is present, the action that any such committee can take without a meeting, the method in which a vacancy among the members of such committee can be filled and the procedures by which resignations and removals of members of such committee shall be acted upon or accomplished, shall be fixed by the resolution adopted by the Board relative to such matters, subject to the provisions of Kentucky law.
 
 #### Other Committees.
 
