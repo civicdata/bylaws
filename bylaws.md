@@ -24,7 +24,7 @@ The Board of Directors may adopt or amend a Statement of Mission from time to ti
 ##  ARTICLE 5. BOARD OF DIRECTORS
 
     5.1 General Powers
-    All corporate power shall be exercised by or under the authority of, and the business and affairs of the Corporation shall be managed under the Board of Directors, hereafter also referred to as the “Board” or “Director”, is subject to any limitations set forth in the Articles. Unless otherwise amended, all Directors are of the same class and have the same powers, responsibilities, and voting privileges.
+    All corporate power shall be exercised by or under the authority of, and the business and affairs of the Corporation shall be managed under the Board of Directors, hereafter also referred to as the “Board” or “Director”, is subject to any limitations set forth in the Articles. Unless otherwise amended, all Directors are of the same class and have the same powers, responsibilities, and voting privileges. Elected and appointed government officials are not eligible to serve on the Board.
 
     5.2 Number, Terms and Election.
         a. Number. The number of Directors for any ensuing year may be fixed by the Board prior to the first regularly scheduled meeting of the Board and said members shall not be less than three (3) nor more than nine (9), excluding ex officio members or others so designated by the Board, i.e. the Past Chairmen of the Board.
@@ -187,6 +187,7 @@ Each such committee shall have such power and authority as the Board may, from t
 #### 3. **Legal Expenses.** Expenses (including attorney fees) incurred in defending a civil or criminal action, suit or proceeding may be paid by the Corporation in advance of the final deposition of such action or proceeding if authorized by the Board of Directors.
 
 ## ARTICLE 12. MISCELLANEOUS
+###Elected and appointed government officials are not eligible to serve on the Board nor in the Core Members nor in any capacity.
 
 #### 1. **Fiscal Year.** The fiscal year of the Corporation shall begin on January 1 of each calendar year and shall end on December 31 of the each calendar year.
 #### 2. **Annual Meeting.** The Annual Meeting of the Corporation shall be held during the month of March as may be determined by the President of the Board and the Board of Directors. Election of new Officers, Executive Board of Directors and Board of Advisors members is pursuant of Sections 5, 6, 7 and 8, herein shall occur at such meeting.
