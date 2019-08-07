@@ -1,6 +1,6 @@
 # CDA Bylaws  
 
-This project's goal is to take an example bylaws template and modify it to fit our organization's needs. Entities responsible for the crafting of CDA bylaws are the Core Members and the Board.
+This project's goal is to take an example bylaws template and modify it to fit our organization's needs. Entities responsible for the crafting of CDA bylaws are the Board.
 
 ### How to contribute      
 
