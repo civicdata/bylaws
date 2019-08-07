@@ -1,30 +1,38 @@
-#   CIVIC DATA ALLIANCE  BYLAWS
-### All the Data for We the People
+# Civic Data Alliance Bylaws  
+### All the Data for We the People  
 
 ##  ARTICLE 1. PRINCIPLE NAME
 The name of this nonprofit Corporation shall be CDA and by such name shall transact business and do all things incidental or necessary to accomplish its corporate business and purpose.
 
-##  ARTICLE 2. OFFICE AND OPERATION
+## ARTICLE 2. OFFICE AND OPERATION
 
- #### 1. **Principal Office**  
- The principal office of the corporation, hereafter referred to as the “Corporation” shall be *ADDRESS* or such other place as the Board of Directors shall determine from time to time.
- #### 2. **Area of Operation**  
- The principal geographical area to be served by the Corporation shall be the metropolitan Louisville, KY area. This area can also be expanded to include any additional geographical areas as deemed by the Board of Directors from time to time.
- #### 3. **Corporate Records**  
- The Articles of Incorporation, Bylaws and Minutes of the meetings of the Board of Directors together with other records of the Corporation shall be maintained at the office of the Corporation or such other place as the Board of Directors may deem appropriate.
+#### 1. **Principal Office**
 
-##  ARTICLE 3. CAPITAL STOCK
+The principal office of the corporation, hereafter referred to as the “Corporation” shall be _ADDRESS_ or such other place as the Board of Directors shall determine from time to time.
+
+#### 2. **Area of Operation**
+
+The principal geographical area to be served by the Corporation shall be the metropolitan Louisville, KY area. This area can also be expanded to include any additional geographical areas as deemed by the Board of Directors from time to time.
+
+#### 3. **Corporate Records**
+
+The Articles of Incorporation, Bylaws and Minutes of the meetings of the Board of Directors together with other records of the Corporation shall be maintained at the office of the Corporation or such other place as the Board of Directors may deem appropriate.
+
+## ARTICLE 3. CAPITAL STOCK
+
 The Corporation shall be a nonprofit Corporation and shall have no capital stock.
 
-##  ARTICLE 4. STATEMENT OF MISSION
-The Corporation is formed for the purposes set forth in its Articles of Incorporation, including more specifically but not limited to functioning as an advocate for community education in civic tech, civic hacking and open data use and best practices, in addition to functioning as the entity who develops and implements these skills and tools in order to help foster a culture of lifelong Civic STEM learning and Open Data advocacy in our community.
+## ARTICLE 4. STATEMENT OF MISSION
+
+The Corporation is formed for the purposes set forth in its Articles of Incorporation, including more specifically but not limited to functioning as an advocate for equity in tech and open data, community knowledge-sharing in civic tech, civic hacking and open data use and best practices, in addition to functioning as the entity who develops and implements these skills and tools in order to help foster a culture of lifelong Civic STEM learning and Open Data advocacy in our community.
 
 The Board of Directors may adopt or amend a Statement of Mission from time to time which shall be appended to and become part of the Bylaws. Any such amendment may be made by a two-thirds majority of the Board of Directors present at any regular or special meeting.
 
+
 ##  ARTICLE 5. BOARD OF DIRECTORS  
 
-    5.1 General Powers
-    All corporate power shall be exercised by or under the authority of, and the business and affairs of the Corporation shall be managed under the Board of Directors, hereafter also referred to as the “Board” or “Director”, is subject to any limitations set forth in the Articles. Unless otherwise amended, all Directors are of the same class and have the same powers, responsibilities, and voting privileges. Elected and appointed government officials are not eligible to serve on the Board.
+5.1 General Powers
+All corporate power shall be exercised by or under the authority of, and the business and affairs of the Corporation shall be managed under the Board of Directors, hereafter also referred to as the “Board” or “Director”, is subject to any limitations set forth in the Articles. Unless otherwise amended, all Directors are of the same class and have the same powers, responsibilities, and voting privileges. Elected and appointed government officials are not eligible to serve on the Board.
 
     5.2 Number, Terms and Election.
         a. Number. The number of Directors for any ensuing year may be fixed by the Board prior to the first regularly scheduled meeting of the Board and said members shall not be less than three (3) nor more than nine (9), excluding ex officio members or others so designated by the Board, i.e. the Past Chairmen of the Board.
@@ -32,13 +40,13 @@ The Board of Directors may adopt or amend a Statement of Mission from time to ti
         b. Term Limit Override. In an effort to provide proper leadership for the health of the Corporation, the Board of Directors reserves the right to override the two term limit and extend a Director’s term if that is deemed necessary to provide a staggered departure of Board members and/or prevent undue hardship on the management team. The exercising of this right does not apply to extending the terms of the Officers of the Board (Section 6.5), however that Officer can continue to serve in the capacity as a Director.
         c. Election. The Chairman of the Board shall appoint with concurrence from the Board, no more than three (3) persons from that Board to a nominating committee at least 60 days prior to the last regularly scheduled meeting of the current fiscal year. The nominating committee shall then prepare a slate of nominees for the Director positions to be filled and voted on 30 days prior to the last regularly scheduled meeting of the fiscal year. The new Directors shall assume their duties at the January Board of Directors meeting each year.
 
-    5.3 Participation, Resignation and Removal. Directors are expected to attend all board meetings during each fiscal year of the Corporation. Any member of the Board may resign from the Board at any time by giving written notice to the Board. A resignation shall be effective when the notice is delivered unless the notice specifies a later effective date. A Director may be removed for cause (including but not limited to breach of fiduciary duty or breach of the duty of care) upon the affirmative vote of the majority of the other Directors (or, if the Board comprises three directors in all, upon the unanimous vote of the other two Directors).
+5.3 Participation, Resignation and Removal. Directors are expected to attend all board meetings during each fiscal year of the Corporation. Any member of the Board may resign from the Board at any time by giving written notice to the Board. A resignation shall be effective when the notice is delivered unless the notice specifies a later effective date. A Director may be removed for cause (including but not limited to breach of fiduciary duty or breach of the duty of care) upon the affirmative vote of the majority of the other Directors (or, if the Board comprises three directors in all, upon the unanimous vote of the other two Directors).
 
-    5.4 Annual and Regular Meetings. The annual meeting of the Board of Directors must be held in the month of March, beginning in 2018 for the fiscal year that starts January 1, 2019, at the time and place specified in a resolution of the Board of Directors.  The Board of Directors must convene additional regular meetings on a semi-annual or more frequent basis so that not more than six months elapses between regular meetings (including the annual meeting). The Secretary must give written notice of all regular meetings to each Director at least ten (10) days prior to the meeting date, by electronic communications platform, personal delivery, fax, e-mail, or first class mail at the Directors‘ respective addresses as shown by the records of the Corporation.
+5.4 Annual and Regular Meetings. The annual meeting of the Board of Directors must be held in the month of March, beginning in 2018 for the fiscal year that starts January 1, 2019, at the time and place specified in a resolution of the Board of Directors.  The Board of Directors must convene additional regular meetings on a semi-annual or more frequent basis so that not more than six months elapses between regular meetings (including the annual meeting). The Secretary must give written notice of all regular meetings to each Director at least ten (10) days prior to the meeting date, by electronic communications platform, personal delivery, fax, e-mail, or first class mail at the Directors‘ respective addresses as shown by the records of the Corporation.
 
-    5.5 Special Meetings. Special meetings of the Board may be called by, or at the request of, the Chairman of the Board or any two Directors of the Corporation. All special meetings of the Board shall be held at the principal office of the Corporation or such other place as may be specified in the notice of the meeting. Notice of special or regular Director meetings shall be given by written or verbal notice to each Director at least one (l) week before the time set for any such meeting.
+5.5 Special Meetings. Special meetings of the Board may be called by, or at the request of, the President of the Board or any two Directors of the Corporation. All special meetings of the Board shall be held at the principal office of the Corporation or such other place as may be specified in the notice of the meeting. Notice of special or regular Director meetings shall be given by written or verbal notice to each Director at least one (l) week before the time set for any such meeting.
 
-    5.6 Participation in Meetings. Unless otherwise provided by Kentucky law, the Board may permit any or all Directors to participate in an annual, regular or special meeting by, or conduct the meeting through the use of, any means of communication by which all Directors participating may simultaneously hear each other during the meeting including, but not limited to, electronic communications platform, conference telephone, video conferencing or similar communications equipment. A Director participating in a meeting by this means shall be deemed to be present in person at the meeting.
+5.6 Participation in Meetings. Unless otherwise provided by Kentucky law, the Board may permit any or all Directors to participate in an annual, regular or special meeting by, or conduct the meeting through the use of, any means of communication by which all Directors participating may simultaneously hear each other during the meeting including, but not limited to, electronic communications platform, conference telephone, video conferencing or similar communications equipment. A Director participating in a meeting by this means shall be deemed to be present in person at the meeting.
 
     5.7 Voting Rights When Not Present. In the event that a Director cannot be present at an official meeting and cannot participate as described in Section 5.6, a Director is permitted to vote on items found on the meeting agenda as prescribed in the following subsections:
         a. When the Corporation’s Secretary or other staff employee sends a notice of a Board meeting, an agenda, and/or related documents to each Director by Slack, e-mail or ordinary mail, the sender may include the form or content of a Ballot that may be completed and returned by each Director under this Section. The form of Ballot must list each Voting Item that is known in advance of the meeting and scheduled to be presented for a vote at the meeting, and must allow each Director to vote in favor of, to vote against, or to abstain with respect to each Voting Item. When notice of a Board meeting is sent by electronic communications platform or e-mail to a Director, a separate Ballot document need not be attached to the electronic communications platform or e-mail message, so long as the text of the electronic communications platform or e-mail message states each Voting Item and reminds the Director of his or her right to vote in favor of, to vote against, or to abstain with respect to each Voting Item, so that the Director can include his or her vote(s) or abstentions in an electronic communications platformed or e-mailed reply under subsection (c).
@@ -136,57 +144,100 @@ The Corporation is formed for the purposes set forth in its Articles of Incorpor
              viii. If this position is not filled by the Board, which is permissible by these Bylaws, the position and duties of Secretary can be assigned to another Officer as denoted in Section 6.1 of these Bylaws.  
 
 ## ARTICLE 7. OTHER COMMITTEES
-#### Other Committees.  
+
+#### Other Committees.
+
 The Board of Directors by resolution adopted by a majority of all Directors in office when the action is taken may create and appoint from among the Corporation’s membership such other committees, consisting of two or more persons, as from time to time it may consider necessary or appropriate to conduct the affairs of the Corporation.
 
 Each such committee shall have such power and authority as the Board may, from time to time, establish for it. The tenure and qualifications of the members of each committee, the-time, place and Corporation of such committee’s meetings, the notice required to call any such meeting, the number of members of each such committee that shall constitute a quorum, the affirmative vote of the committee members required effectively to take action at any meeting at which a quorum is present, the action that any such committee can take without a meeting, the method in which a vacancy among the members of such committee can be filled and the procedures by which resignations and removals of members of such committee shall be acted upon or accomplished, shall be fixed by the resolution adopted by the Board relative to such matters, subject to the provisions of Kentucky law.
 
-#### Other Committees.
+#### Other Committees
 
-#### The Board of Directors by resolution adopted by a majority of all Directors in office when the action is taken may create and appoint from among the Corporation’s membership such other committees, consisting of two or more persons, as from time to time it may consider necessary or appropriate to conduct the affairs of the Corporation.
+The Board of Directors by resolution adopted by a majority of all Directors in office when the action is taken may create and appoint from among the Corporation’s membership such other committees, consisting of two or more persons, as from time to time it may consider necessary or appropriate to conduct the affairs of the Corporation.
 
-#### Each such committee shall have such power and authority as the Board may, from time to time, establish for it. The tenure and qualifications of the members of each committee, the time, place and Corporation of such committee’s meetings, the notice required to call any such meeting, the number of members of each such committee that shall constitute a quorum, the affirmative vote of the committee members required effectively to take action at any meeting at which a quorum is present, the action that any such committee can take without a meeting, the method in which a vacancy among the members of such committee can be filled and the procedures by which resignations and removals of members of such committee shall be acted upon or accomplished, shall be fixed by the resolution adopted by the Board relative to such matters, subject to the provisions of Kentucky law.
+Each such committee shall have such power and authority as the Board may, from time to time, establish for it. The tenure and qualifications of the members of each committee, the time, place and Corporation of such committee’s meetings, the notice required to call any such meeting, the number of members of each such committee that shall constitute a quorum, the affirmative vote of the committee members required effectively to take action at any meeting at which a quorum is present, the action that any such committee can take without a meeting, the method in which a vacancy among the members of such committee can be filled and the procedures by which resignations and removals of members of such committee shall be acted upon or accomplished, shall be fixed by the resolution adopted by the Board relative to such matters, subject to the provisions of Kentucky law.
 
 ## ARTICLE 8. BUDGET, CONTRACTS, LOANS, CHECKS AND DEPOSITS
 
- #### 1. **Budget.** The Board of Directors shall determine the amount of the annual budget of the Corporation.
- #### 2. **Contracts.** The Board of Directors may authorize any Officer or agent (i.e. Managing Director) to enter ‘into any contract and execute and deliver any instruments in the name of and on behalf of the Corporation. Such authority may be general or confined to specific instances.
- #### 3. **Corporate Loans.** No loans shall be contracted on behalf of the Corporation, and no evidences of indebtedness shall be issued in the Corporation’s name, unless authorized by a resolution of the Board of Directors. Such authority may be general or confined to specific instances.
- #### 4. **Checks, Drafts, Etc.** All checks, drafts or other orders for the payment of money, notes or other evidences of indebtedness issued in the name of the Corporation shall be signed by such Officer or agent of the Corporation and in such manner as shall, from time to time, be determined by resolution of the Board of Directors. Checks, drafts, or other debits for expenditures of over $5,000 made on behalf of the organization shall require two signatures of any Officer and/or its designated agent unless the Board expressly authorizes the expenditure and the signing of the check, draft or debit by some other officer or person.
- #### 5. **Deposits.** All funds of the Corporation not otherwise employed shall be deposited, from time to time, to the credit of the Corporation in such banks, trust companies and other depositories as the Board of Directors may select.
- #### 6. **Gifts.** The Board of Directors may accept on behalf of the Corporation any contribution, gift, bequest or devise for the general purpose or for any special purpose of the Corporation. However, the Board of Directors may not accept, on behalf of the Corporation, any contribution, gift, bequest or devise that would jeopardize the tax exempt status of the Corporation under the federal tax laws, or whose acceptance or application would violate the Articles of Incorporation of the Corporation.
+#### 1. **Budget**
+
+The Board of Directors shall determine the amount of the annual budget of the Corporation.
+
+#### 2. **Contracts**
+
+The Board of Directors may authorize any Officer or agent \(i.e. Managing Director\) to enter ‘into any contract and execute and deliver any instruments in the name of and on behalf of the Corporation. Such authority may be general or confined to specific instances.
+
+#### 3. **Corporate Loans**
+
+No loans shall be contracted on behalf of the Corporation, and no evidences of indebtedness shall be issued in the Corporation’s name, unless authorized by a resolution of the Board of Directors. Such authority may be general or confined to specific instances.
+
+#### 4. **Checks, Drafts, Etc**
+
+All checks, drafts or other orders for the payment of money, notes or other evidences of indebtedness issued in the name of the Corporation shall be signed by such Officer or agent of the Corporation and in such manner as shall, from time to time, be determined by resolution of the Board of Directors. Checks, drafts, or other debits for expenditures of over $5,000 made on behalf of the organization shall require two signatures of any Officer and/or its designated agent unless the Board expressly authorizes the expenditure and the signing of the check, draft or debit by some other officer or person.
+
+#### 5. **Deposits**
+
+All funds of the Corporation not otherwise employed shall be deposited, from time to time, to the credit of the Corporation in such banks, trust companies and other depositories as the Board of Directors may select.
+
+#### 6. **Gifts**
+
+The Board of Directors may accept on behalf of the Corporation any contribution, gift, bequest or devise for the general purpose or for any special purpose of the Corporation. However, the Board of Directors may not accept, on behalf of the Corporation, any contribution, gift, bequest or devise that would jeopardize the tax exempt status of the Corporation under the federal tax laws, or whose acceptance or application would violate the Articles of Incorporation of the Corporation.
 
 ## ARTICLE 9. EMERGENCY BYLAWS
 
-#### 1. **Adoption of Emergency Bylaws.** The provisions of Section 9.2 shall be operative during any emergency. An emergency shall exist for purposes of Section 9.2 if a quorum of the Board of Directors cannot readily be assembled because of some catastrophic event. All provisions of these Bylaws provided elsewhere herein which are consistent with the Emergency Bylaws shall remain effective during the emergency. The Emergency Bylaws shall not be effective after the emergency ends.
+#### 1. **Adoption of Emergency Bylaws**
+
+The provisions of Section 9.2 shall be operative during any emergency. An emergency shall exist for purposes of Section 9.2 if a quorum of the Board of Directors cannot readily be assembled because of some catastrophic event. All provisions of these Bylaws provided elsewhere herein which are consistent with the Emergency Bylaws shall remain effective during the emergency. The Emergency Bylaws shall not be effective after the emergency ends.
+
 #### 2. **Provisions of Emergency Bylaws.**
+
 > 1. **Call of Meeting.** A meeting of the Board of Directors may be called by any Officer or Director of the Corporation. Notice of the time and place of the meeting shall be given by the person calling the meeting to such of the Directors as it may be feasible to reach by any available means of communication. Such notice shall be given at such time in advance of the meeting as circumstances permit in the judgment of the person calling the meeting.
 > 2. **Quorum.** The Director or Directors in attendance at the meeting, as the case may be, shall constitute a quorum.
 > 3. **Lines of Succession.** The Board, either before or during any such emergency, may provide, and from time to time modify, lines of succession in the event that during such an emergency, any or all Directors, Officers, Employees or Agents of the Corporation shall, for any reason, be rendered incapable of discharging their duties.
 > 4. **Change in Principal Office.** The Board, either before or during any such emergency, may, effective in the emergency, change the principal office or designate several alternative principal offices or regional offices, or authorize the Officers to do so.
 > 5. **Liability of Officers and Directors**. All corporate action taken in good faith in accordance with these Emergency Bylaws shall bind the Corporation. No Officer, Director or employee acting in accordance with these Emergency Bylaws shall be liable for such action, except for bad faith.
-#### 3. **Changes in Emergency Bylaws.** These Emergency Bylaws shall be subject to repeal or change by further action of the Board, but no such repeal or change shall modify the provisions of Section 9.2 with regard to action taken prior to the time of such repeal or change.
+>
+>    **3. Changes in Emergency Bylaws. These Emergency Bylaws shall be subject to repeal or change by further action of the Board, but no such repeal or change shall modify the provisions of Section 9.2 with regard to action taken prior to the time of such repeal or change.**
 
 ## ARTICLE 10. STANDARD OF CARE
 
-#### 1. **General.** Based on facts known to him or her at the time, each Director or officer of the Corporation must discharge his or her duties (including duties as a member of a committee):
+#### 1. **General**
+
+Based on facts known to him or her at the time, each Director or officer of the Corporation must discharge his or her duties \(including duties as a member of a committee\):
+
 > 1. In good faith;
 > 2. With the care an ordinarily prudent person in a like position would exercise under similar circumstances; and
 > 3. In a manner that the Director or officer reasonably believes to be in the best interests of the Corporation.
-#### 2. **Reliance.** In discharging his or her duties, a Director may rely on information, opinions, reports, or statements, including financial statements and other financial data, if prepared or presented by one of the following:
-> 1. An officer or employee of the Corporation whom the Director reasonably believes to be reliable and competent in the matters presented; or
-> 2. Legal counsel, public accountants, or other persons with respect to matters that the Director reasonably believes to be within the person’s professional or expert competence.
-> 3.  **Limitations on Liability.** A Director or officer is not liable for an action taken in that capacity, or for a failure to act, unless:
-    1. The Director or officer has breached or failed to perform the Director’s or officer’s duties in compliance with this Article; or
-    2. The breach or failure to perform constitutes willful misconduct or recklessness.
+>
+>    **2. Reliance**
+>
+>    In discharging his or her duties, a Director may rely on information, opinions, reports, or statements, including financial statements and other financial data, if prepared or presented by one of the following:
+>
+> 4. An officer or employee of the Corporation whom the Director reasonably believes to be reliable and competent in the matters presented; or
+> 5. Legal counsel, public accountants, or other persons with respect to matters that the Director reasonably believes to be within the person’s professional or expert competence.
+> 6. **Limitations on Liability**  
+>
+>    A Director or officer is not liable for an action taken in that capacity, or for a failure to act, unless:
+>
+>    1. The Director or officer has breached or failed to perform the Director’s or officer’s duties in compliance with this Article; or
+>    2. The breach or failure to perform constitutes willful misconduct or recklessness.
 
 ## ARTICLE 11. CORPORATE LEGAL LIABILITY
 
-#### 1. **Indemnification.** The Corporation shall indemnify each of its Director(s), Officer(s) and employee(s) who was or is a party or it threatened to be made a party to any threatened, pending or completed action, suit or proceeding, whether civil, criminal, administrative or investigative (other than an action by or in the right of the Corporation) by reason of the fact that the individual is or was serving at the request of the Corporation as a Director, Officer, or employee against expenses (including attorney fees) judgments, fines and amounts paid in settlement which are actually and reasonably incurred and amounts paid in connection with such action, suit or proceedings if the individual acted in good faith and in a manner reasonably believed to be in, or not opposed to the best interests of the Corporation, and, if with respect to any criminal action or proceeding, the individual had no reasonable cause to believe the conduct to be unlawful.
-#### 2. **Determination of Indemnification.** Except as provided herein, any such indemnification shall be made by the Corporation only as authorized in the specific case upon a determination that indemnification of the Director, Officer, or employee is proper in the circumstances because the individual has met the applicable standard of conduct set forth herein. Such determination shall be made by the Board of Directors by a majority vote of quorum of Directors who were or are not parties to the action, suit or proceeding in question.
-#### 3. **Legal Expenses.** Expenses (including attorney fees) incurred in defending a civil or criminal action, suit or proceeding may be paid by the Corporation in advance of the final deposition of such action or proceeding if authorized by the Board of Directors.
+#### 1. **Indemnification**
 
-## ARTICLE 12. MISCELLANEOUS
+The Corporation shall indemnify each of its Director\(s\), Officer\(s\) and employee\(s\) who was or is a party or it threatened to be made a party to any threatened, pending or completed action, suit or proceeding, whether civil, criminal, administrative or investigative \(other than an action by or in the right of the Corporation\) by reason of the fact that the individual is or was serving at the request of the Corporation as a Director, Officer, or employee against expenses \(including attorney fees\) judgments, fines and amounts paid in settlement which are actually and reasonably incurred and amounts paid in connection with such action, suit or proceedings if the individual acted in good faith and in a manner reasonably believed to be in, or not opposed to the best interests of the Corporation, and, if with respect to any criminal action or proceeding, the individual had no reasonable cause to believe the conduct to be unlawful.
+
+#### 2. **Determination of Indemnification**
+
+Except as provided herein, any such indemnification shall be made by the Corporation only as authorized in the specific case upon a determination that indemnification of the Director, Officer, or employee is proper in the circumstances because the individual has met the applicable standard of conduct set forth herein. Such determination shall be made by the Board of Directors by a majority vote of quorum of Directors who were or are not parties to the action, suit or proceeding in question.
+
+#### 3. **Legal Expenses**
+
+Expenses \(including attorney fees\) incurred in defending a civil or criminal action, suit or proceeding may be paid by the Corporation in advance of the final deposition of such action or proceeding if authorized by the Board of Directors.
+
+## ARTICLE 12. MISCELLANEOUS  
+
 ###Elected and appointed government officials are not eligible to serve on the Board nor in the Core Members nor in any capacity. Government employees not elected nor appointed may serve on the board but do not have voting privileges.
 
 #### 1. **Fiscal Year.** The fiscal year of the Corporation shall begin on January 1 of each calendar year and shall end on December 31 of the each calendar year.
