@@ -24,13 +24,13 @@ The Corporation shall be a nonprofit Corporation and shall have no capital stock
 
 ## ARTICLE 4. STATEMENT OF MISSION
 
-The Corporation is formed for the purposes set forth in its Articles of Incorporation, including more specifically but not limited to functioning as an advocate for community education in civic tech, civic hacking and open data use and best practices, in addition to functioning as the entity who develops and implements these skills and tools in order to help foster a culture of lifelong Civic STEM learning and Open Data advocacy in our community.
+The Corporation is formed for the purposes set forth in its Articles of Incorporation, including more specifically but not limited to functioning as an advocate for equity in tech and open data, community knowledge-sharing in civic tech, civic hacking and open data use and best practices, in addition to functioning as the entity who develops and implements these skills and tools in order to help foster a culture of lifelong Civic STEM learning and Open Data advocacy in our community.
 
 The Board of Directors may adopt or amend a Statement of Mission from time to time which shall be appended to and become part of the Bylaws. Any such amendment may be made by a two-thirds majority of the Board of Directors present at any regular or special meeting.
 
-## ARTICLE 5. BOARD OF DIRECTORS
 
-```text
+##  ARTICLE 5. BOARD OF DIRECTORS  
+
 5.1 General Powers
 All corporate power shall be exercised by or under the authority of, and the business and affairs of the Corporation shall be managed under the Board of Directors, hereafter also referred to as the “Board” or “Director”, is subject to any limitations set forth in the Articles. Unless otherwise amended, all Directors are of the same class and have the same powers, responsibilities, and voting privileges. Elected and appointed government officials are not eligible to serve on the Board.
 
@@ -94,7 +94,7 @@ The Corporation is formed for the purposes set forth in its Articles of Incorpor
 #### 10. **Majority Vote.** The act of a majority of the Directors present in person at a meeting at which a quorum is present is the valid act of the Board of Directors. Affirmative and negative votes cast by Directors and timely returned under Section 5.7 must be counted in determining whether a particular Voting Item has been approved by a majority vote.
 #### 11. **Action by Written Consent.** Any action required or permitted to be taken by the Board at a meeting may be taken without a meeting if consent is in writing, setting forth the action so taken, shall be signed by all of the Directors.
 
-##  ARTICLE 6. OFFICERS AND EXECUTIVE COMMITTEE
+##  ARTICLE 6. OFFICERS AND EXECUTIVE COMMITTEE  
         6.1 Required Officers. The Corporation shall have the Officers described in these Bylaws or appointed by the Board in accordance with these Bylaws. A duly appointed Officer may appoint one or more Officers or assistant Officers if authorized by the Board. The same individual may simultaneously hold more than one office in the Corporation.
           Section 6.l0(d) delegates to the Secretary, if such office be created and filled, the required responsibility of preparing minutes of the Directors’ meetings and for authenticating records of the Corporation. If such office shall not be created and filled, then the Board shall delegate to one of the Officers of the Corporation such responsibility.
 
