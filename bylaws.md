@@ -34,13 +34,11 @@ The Board of Directors may adopt or amend a Statement of Mission from time to ti
 
 5.1 General Powers All corporate power shall be exercised by or under the authority of, and the business and affairs of the Corporation shall be managed under the Board of Directors, hereafter also referred to as the “Board” or “Director”, is subject to any limitations set forth in the Articles. Unless otherwise amended, all Directors are of the same class and have the same powers, responsibilities, and voting privileges. Elected and appointed government officials are not eligible to serve on the Board.
 
-```text
 5.2 Number, Terms and Election.
     a. Number. The number of Directors for any ensuing year may be fixed by the Board prior to the first regularly scheduled meeting of the Board and said members shall not be less than three (3) nor more than nine (9), excluding ex officio members or others so designated by the Board, i.e. the Past Chairmen of the Board.
     a. Terms. Each Director may be elected to three (3) consecutive, four (4) year terms.
     b. Term Limit Override. In an effort to provide proper leadership for the health of the Corporation, the Board of Directors reserves the right to override the two term limit and extend a Director’s term if that is deemed necessary to provide a staggered departure of Board members and/or prevent undue hardship on the management team. The exercising of this right does not apply to extending the terms of the Officers of the Board (Section 6.5), however that Officer can continue to serve in the capacity as a Director.
     c. Election. The Chairman of the Board shall appoint with concurrence from the Board, no more than three (3) persons from that Board to a nominating committee at least 60 days prior to the last regularly scheduled meeting of the current fiscal year. The nominating committee shall then prepare a slate of nominees for the Director positions to be filled and voted on 30 days prior to the last regularly scheduled meeting of the fiscal year. The new Directors shall assume their duties at the January Board of Directors meeting each year.
-```
 
 5.3 Participation, Resignation and Removal. Directors are expected to attend all board meetings during each fiscal year of the Corporation. Any member of the Board may resign from the Board at any time by giving written notice to the Board. A resignation shall be effective when the notice is delivered unless the notice specifies a later effective date. A Director may be removed for cause \(including but not limited to breach of fiduciary duty or breach of the duty of care\) upon the affirmative vote of the majority of the other Directors \(or, if the Board comprises three directors in all, upon the unanimous vote of the other two Directors\).
 
@@ -50,7 +48,6 @@ The Board of Directors may adopt or amend a Statement of Mission from time to ti
 
 5.6 Participation in Meetings. Unless otherwise provided by Kentucky law, the Board may permit any or all Directors to participate in an annual, regular or special meeting by, or conduct the meeting through the use of, any means of communication by which all Directors participating may simultaneously hear each other during the meeting including, but not limited to, electronic communications platform, conference telephone, video conferencing or similar communications equipment. A Director participating in a meeting by this means shall be deemed to be present in person at the meeting.
 
-```text
 5.7 Voting Rights When Not Present. In the event that a Director cannot be present at an official meeting and cannot participate as described in Section 5.6, a Director is permitted to vote on items found on the meeting agenda as prescribed in the following subsections:
     a. When the Corporation’s Secretary or other staff employee sends a notice of a Board meeting, an agenda, and/or related documents to each Director by Slack, e-mail or ordinary mail, the sender may include the form or content of a Ballot that may be completed and returned by each Director under this Section. The form of Ballot must list each Voting Item that is known in advance of the meeting and scheduled to be presented for a vote at the meeting, and must allow each Director to vote in favor of, to vote against, or to abstain with respect to each Voting Item. When notice of a Board meeting is sent by electronic communications platform or e-mail to a Director, a separate Ballot document need not be attached to the electronic communications platform or e-mail message, so long as the text of the electronic communications platform or e-mail message states each Voting Item and reminds the Director of his or her right to vote in favor of, to vote against, or to abstain with respect to each Voting Item, so that the Director can include his or her vote(s) or abstentions in an electronic communications platformed or e-mailed reply under subsection (c).
     b. Regardless of the method (electronic communications platformed, ordinary mail or e-mail) by which a Director receives notice of a Board meeting, agenda and a form of Ballot, the Director:
@@ -61,35 +58,45 @@ The Board of Directors may adopt or amend a Statement of Mission from time to ti
       i) Voluntary dissolution, liquidation, and winding up of the Corporation;
       ii) Amendment or restatement of the Articles of Incorporation; or
       iii) Merger of the Corporation with another nonprofit organization.
-```
 
 The Corporation is formed for the purposes set forth in its Articles of Incorporation, including more specifically but not limited to functioning as an advocate for community education in civic tech, civic hacking and open data use and best practices, in addition to functioning as the entity who develops and implements these skills and tools in order to help foster a culture of lifelong Civic STEM learning and Open Data advocacy in our community.
 
-```text
 5.9 Quorum. Fifty percent (50%) of the entire membership of the Board of Directors then in office is a quorum. However, when filling vacancies occurring in the Board of Directors, a majority of the existing Directors constitutes a quorum. Attendance at meetings must be taken by the Secretary or by means of a roster signed or initialed by each Board member in attendance. A Director who:
     a. Participates electronically in a Board meeting (Section 5.6)
     b. Returns by electronic communications platform, e-mail or ordinary mail (Section 5.7) a ballot with respect to one or more Voting Items, which ballot is received by the Secretary on or before the date and time for the Board meeting, is counted toward satisfying the quorum requirement at the Board meeting for the Voting Item(s) involved or at which the Director electronically participates.
 
 5.10 Majority Vote. The act of a majority of the Directors present in person at a meeting at which a quorum is present is the valid act of the Board of Directors. Affirmative and negative votes cast by Directors and timely returned by electronic communications platform, e-mail or ordinary mail under Section 5.7 must be counted in determining whether a particular Voting Item has been approved by a majority vote.
-```
 
-#### 1. **General Powers.** All corporate power shall be exercised by or under the authority of, and the business and affairs of the Corporation shall be managed under the Board of Directors, hereafter also referred to as the “Board” or “Director”, is subject to any limitations set forth in the Articles. Unless otherwise amended, all Directors are of the same class and have the same powers, responsibilities, and voting privileges.
+
+#### 1. **General Powers.** 
+All corporate power shall be exercised by or under the authority of, and the business and affairs of the Corporation shall be managed under the Board of Directors, hereafter also referred to as the “Board” or “Director”, is subject to any limitations set forth in the Articles. Unless otherwise amended, all Directors are of the same class and have the same powers, responsibilities, and voting privileges.
 
 #### 2. **Number, Terms and Election.**
 
-#### 3. **Number.** The number of Directors for any ensuing year may be fixed by the Board prior to the first regularly scheduled meeting of the Board and said members shall not be less than three \(3\) nor more than seven \(7\), excluding ex officio members or others so designated by the Board, i.e. the Past Chairmen of the Board.
+#### 3. **Number.** 
+The number of Directors for any ensuing year may be fixed by the Board prior to the first regularly scheduled meeting of the Board and said members shall not be less than three \(3\) nor more than seven \(7\), excluding ex officio members or others so designated by the Board, i.e. the Past Chairmen of the Board.
 
-#### 4. **Terms.** Each Director may be elected to three \(3\) consecutive, four \(4\) year terms.
+#### 4. **Terms.** 
+Each Director may be elected to three \(3\) consecutive, four \(4\) year terms.
 
-#### 5. **Term Limit Override.** In an effort to provide proper leadership for the health of the Corporation, the Board of Directors reserves the right to override the term limit and extend a Director’s term if that is deemed necessary to provide a staggered departure of Board members and/or prevent undue hardship on the management team. The exercising of this right does not apply to extending the terms of the Officers of the Board \(Section 6.5\), however that Officer can continue to serve in the capacity as a Director.
+#### 5. **Term Limit Override.** 
+In an effort to provide proper leadership for the health of the Corporation, the Board of Directors reserves the right to override the term limit and extend a Director’s term if that is deemed necessary to provide a staggered departure of Board members and/or prevent undue hardship on the management team. The exercising of this right does not apply to extending the terms of the Officers of the Board \(Section 6.5\), however that Officer can continue to serve in the capacity as a Director.
 
-#### 6. **Election.** The President of the Board shall appoint with concurrence from the Board, no more than three \(3\) persons from that Board to a nominating committee at least 60 days prior to the last regularly scheduled meeting of the current fiscal year. The nominating committee shall then prepare a slate of nominees for the Director positions to be filled and voted on 30 days prior to the last regularly scheduled meeting of the fiscal year. The new Directors shall assume their duties at the first Board of Directors meeting each year.
+#### 6. **Election.** 
+The President of the Board shall appoint with concurrence from the Board, no more than three \(3\) persons from that Board to a nominating committee at least 60 days prior to the last regularly scheduled meeting of the current fiscal year. The nominating committee shall then prepare a slate of nominees for the Director positions to be filled and voted on 30 days prior to the last regularly scheduled meeting of the fiscal year. The new Directors shall assume their duties at the first Board of Directors meeting each year.
 
-#### 7. **Participation, Resignation and Removal.** Directors are expected to attend all board meetings during each fiscal year of the Corporation. Any member of the Board may resign from the Board at any time by giving written notice to the Board. A resignation shall be effective when the notice is delivered unless the notice specifies a later effective date. A Director may be removed for cause \(including but not limited to breach of fiduciary duty or breach of the duty of care\) upon the affirmative vote of the majority of the other Directors \(or, if the Board comprises three directors in all, upon the unanimous vote of the other two Directors\).
+#### 7. **Participation, Resignation and Removal.** D
+irectors are expected to attend all board meetings during each fiscal year of the Corporation. Any member of the Board may resign from the Board at any time by giving written notice to the Board. A resignation shall be effective when the notice is delivered unless the notice specifies a later effective date. A Director may be removed for cause \(including but not limited to breach of fiduciary duty or breach of the duty of care\) upon the affirmative vote of the majority of the other Directors \(or, if the Board comprises three directors in all, upon the unanimous vote of the other two Directors\).
 
-> 1. **Annual and Regular Meetings.** The annual meeting of the Board of Directors must be held in the month of March, beginning in 2018 for the fiscal year that starts January 1, 2018, at the time and place specified in a resolution of the Board of Directors.  The Board of Directors must convene additional regular meetings on a semi-annual or more frequent basis so that not more than six months elapses between regular meetings \(including the annual meeting\). The Secretary must give written notice of all regular meetings to each Director at least ten \(10\) days prior to the meeting date, by personal delivery, fax, e-mail, Slack message, Twitter Direct Message, Facebook Message, or first class mail at the Directors‘ respective addresses as shown by the records of the Corporation.
-> 2. **Special Meetings.** Special meetings of the Board may be called by, or at the request of, the President of the Board or any two Directors of the Corporation. All special meetings of the Board shall be held at the principal office of the Corporation or such other place as may be specified in the notice of the meeting. Notice of special or regular Director meetings shall be given by written or verbal notice to each Director at least one \(l\) week before the time set for any such meeting.
-> 3. **Participation in Meetings.** Unless otherwise provided by Kentucky law, the Board may permit any or all Directors to participate in an annual, regular or special meeting by, or conduct the meeting through the use of, any means of communication by which all Directors participating may simultaneously hear each other during the meeting including, but not limited to, conference telephone, video conferencing or similar communications equipment. A Director participating in a meeting by this means shall be deemed to be present in person at the meeting.
+> 1. **Annual and Regular Meetings.** T
+he annual meeting of the Board of Directors must be held in the month of March, beginning in 2018 for the fiscal year that starts January 1, 2018, at the time and place specified in a resolution of the Board of Directors.  The Board of Directors must convene additional regular meetings on a semi-annual or more frequent basis so that not more than six months elapses between regular meetings \(including the annual meeting\). The Secretary must give written notice of all regular meetings to each Director at least ten \(10\) days prior to the meeting date, by personal delivery, fax, e-mail, Slack message, Twitter Direct Message, Facebook Message, or first class mail at the Directors‘ respective addresses as shown by the records of the Corporation.
+
+> 2. **Special Meetings.** 
+Special meetings of the Board may be called by, or at the request of, the President of the Board or any two Directors of the Corporation. All special meetings of the Board shall be held at the principal office of the Corporation or such other place as may be specified in the notice of the meeting. Notice of special or regular Director meetings shall be given by written or verbal notice to each Director at least one \(l\) week before the time set for any such meeting.
+
+> 3. **Participation in Meetings.** 
+Unless otherwise provided by Kentucky law, the Board may permit any or all Directors to participate in an annual, regular or special meeting by, or conduct the meeting through the use of, any means of communication by which all Directors participating may simultaneously hear each other during the meeting including, but not limited to, conference telephone, video conferencing or similar communications equipment. A Director participating in a meeting by this means shall be deemed to be present in person at the meeting.
+
 > 4. **Voting Rights When Not Present.** In the event that a Director cannot be present at an official meeting and cannot participate as described in Section 5.6, a Director is permitted to vote on items found on the meeting agenda as prescribed in the following subsections:
 >
 >     1.When the Corporation’s Secretary or other staff employee sends a notice of a Board meeting, an agenda, and/or related documents to each Director, the sender may include the form or content of a Ballot that may be completed and returned by each Director under this Section. The form of Ballot must list each Voting Item that is known in advance of the meeting and scheduled to be presented for a vote at the meeting, and must allow each Director to vote in favor of, to vote against, or to abstain with respect to each Voting Item. When notice of a Board meeting is sent by electronically to a Director, a separate Ballot document need not be attached to the e-mail message, so long as the text of the e-mail message states each Voting Item and reminds the Director of his or her right to vote in favor of, to vote against, or to abstain with respect to each Voting Item, so that the Director can include his or her vote\(s\) or abstentions in an e-mailed reply under subsection \(c\).
@@ -248,34 +255,38 @@ Based on facts known to him or her at the time, each Director or officer of the 
 ## ARTICLE 11. CORPORATE LEGAL LIABILITY
 
 #### 1. **Indemnification**
-
 The Corporation shall indemnify each of its Director\(s\), Officer\(s\) and employee\(s\) who was or is a party or it threatened to be made a party to any threatened, pending or completed action, suit or proceeding, whether civil, criminal, administrative or investigative \(other than an action by or in the right of the Corporation\) by reason of the fact that the individual is or was serving at the request of the Corporation as a Director, Officer, or employee against expenses \(including attorney fees\) judgments, fines and amounts paid in settlement which are actually and reasonably incurred and amounts paid in connection with such action, suit or proceedings if the individual acted in good faith and in a manner reasonably believed to be in, or not opposed to the best interests of the Corporation, and, if with respect to any criminal action or proceeding, the individual had no reasonable cause to believe the conduct to be unlawful.
 
 #### 2. **Determination of Indemnification**
-
 Except as provided herein, any such indemnification shall be made by the Corporation only as authorized in the specific case upon a determination that indemnification of the Director, Officer, or employee is proper in the circumstances because the individual has met the applicable standard of conduct set forth herein. Such determination shall be made by the Board of Directors by a majority vote of quorum of Directors who were or are not parties to the action, suit or proceeding in question.
 
 #### 3. **Legal Expenses**
-
 Expenses \(including attorney fees\) incurred in defending a civil or criminal action, suit or proceeding may be paid by the Corporation in advance of the final deposition of such action or proceeding if authorized by the Board of Directors.
 
 ## ARTICLE 12. MISCELLANEOUS
-
 ### Elected and appointed government officials are not eligible to serve on the Board nor in the Core Members nor in any capacity. Government employees not elected nor appointed may serve on the board but do not have voting privileges.
 
-#### 1. **Fiscal Year.** The fiscal year of the Corporation shall begin on January 1 of each calendar year and shall end on December 31 of the each calendar year.
+#### 1. **Fiscal Year.** 
+The fiscal year of the Corporation shall begin on January 1 of each calendar year and shall end on December 31 of the each calendar year.
 
-#### 2. **Annual Meeting.** The Annual Meeting of the Corporation shall be held during the month of March as may be determined by the President of the Board and the Board of Directors. Election of new Officers, Executive Board of Directors and Board of Advisors members is pursuant of Sections 5, 6, 7 and 8, herein shall occur at such meeting.
+#### 2. **Annual Meeting.** 
+The Annual Meeting of the Corporation shall be held during the month of March as may be determined by the President of the Board and the Board of Directors. Election of new Officers, Executive Board of Directors and Board of Advisors members is pursuant of Sections 5, 6, 7 and 8, herein shall occur at such meeting.
 
-#### 3. **Amendments.** These Bylaws may be amended at any meeting of the Board of Directors, regular or special, by a vote of a majority of the Directors present at such meeting.
+#### 3. **Amendments.** 
+These Bylaws may be amended at any meeting of the Board of Directors, regular or special, by a vote of a majority of the Directors present at such meeting.
 
-#### 4. **Waiver of Notice.** Whenever any notice is required to be given to any Director of the Corporation under the provisions of these Bylaws, under the provision of the Articles of Incorporation or the provisions of the Kentucky Nonprofit Corporation Act as it may be amended from time to time, a waiver thereof in writing signed by the person or persons entitled to such notice, whether before or after the time stated therein, shall be deemed equivalent to the giving of such notice;
+#### 4. **Waiver of Notice.** 
+Whenever any notice is required to be given to any Director of the Corporation under the provisions of these Bylaws, under the provision of the Articles of Incorporation or the provisions of the Kentucky Nonprofit Corporation Act as it may be amended from time to time, a waiver thereof in writing signed by the person or persons entitled to such notice, whether before or after the time stated therein, shall be deemed equivalent to the giving of such notice;
 
-#### 5. **Construction.** Unless the context specifically requires otherwise, any reference in these Bylaws to any gender shall include all other genders, any reference to the singular shall include the plural and any reference to the plural shall include the singular.
+#### 5. **Construction.** 
+Unless the context specifically requires otherwise, any reference in these Bylaws to any gender shall include all other genders, any reference to the singular shall include the plural and any reference to the plural shall include the singular.
 
-#### 6. **Limitations.** Notwithstanding any other provision hereof, including, but not limited to any provision of any Emergency Bylaws, the Corporation shall take no action contrary to the provisions of the Articles, and if at any time the Corporation is a private foundation or private operating foundation as such terms are defined in the Internal Revenue Code of 1986, as amended \(“Code”\), then the Corporation shall only act as permitted under the Code without subjecting the Corporation to additional taxes imposed under Subchapter A, Chapter 42, Subtitle D of the Code.
+#### 6. **Limitations.** 
+Notwithstanding any other provision hereof, including, but not limited to any provision of any Emergency Bylaws, the Corporation shall take no action contrary to the provisions of the Articles, and if at any time the Corporation is a private foundation or private operating foundation as such terms are defined in the Internal Revenue Code of 1986, as amended \(“Code”\), then the Corporation shall only act as permitted under the Code without subjecting the Corporation to additional taxes imposed under Subchapter A, Chapter 42, Subtitle D of the Code.
 
-#### 7. **Severability of Provisions.** Except as may conflict with the provisions of the Articles, if any provision of these Bylaws, or its application to any person or circumstances, is held invalid or unenforceable by a court of competent jurisdiction, the remainder of these By1aws, or the application of such provisions to persons or circumstances other than those to which it was held to be invalid or unenforceable, shall not be affected thereby, and to this extent, the provisions of these Bylaws are severable.
+#### 7. **Severability of Provisions.** 
+Except as may conflict with the provisions of the Articles, if any provision of these Bylaws, or its application to any person or circumstances, is held invalid or unenforceable by a court of competent jurisdiction, the remainder of these By1aws, or the application of such provisions to persons or circumstances other than those to which it was held to be invalid or unenforceable, shall not be affected thereby, and to this extent, the provisions of these Bylaws are severable.
 
-#### 8. **Other Staff and Programs.** The Board of Directors or any officer or committee with Board delegated authority may design, establish and carry out various programs consistent with the Corporation’s charitable and educational purposes. Toward those ends, and to the extent the Corporation’s officers and regular staff employees are insufficient in number, skill, or experience, the Board of Directors may authorize the staff to design, establish, and carry out these programs.
+#### 8. **Other Staff and Programs.** 
+The Board of Directors or any officer or committee with Board delegated authority may design, establish and carry out various programs consistent with the Corporation’s charitable and educational purposes. Toward those ends, and to the extent the Corporation’s officers and regular staff employees are insufficient in number, skill, or experience, the Board of Directors may authorize the staff to design, establish, and carry out these programs.
 
